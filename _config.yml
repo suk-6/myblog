@@ -16,7 +16,7 @@ timezone: Asia/Seoul
 
 title: Suk's Blog # the main title
 
-tagline: 삽질 블로그 # it will display as the sub-title
+tagline: 소프트웨어과 고등학생입니다. # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
@@ -38,8 +38,8 @@ social:
   email: me@suk.kr # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your twitter homepage
-    - https://github.com/username # change to your github homepage
+    - https://twitter.com/woosuknam # change to your twitter homepage
+    - https://github.com/suk-6 # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
@@ -79,7 +79,7 @@ avatar:
 toc: true
 
 comments:
-  active: # The global switch for posts comments, e.g., 'disqus'.  Keep it empty means disable
+  active: true # The global switch for posts comments, e.g., 'disqus'.  Keep it empty means disable
   # The active options are as follows:
   disqus:
     shortname: # fill with the Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
@@ -89,7 +89,7 @@ comments:
     issue_term: # < url | pathname | title | ...>
   # Giscus options › https://giscus.app
   giscus:
-    repo: # <gh-username>/<repo>
+    repo: suk-6/myblog # <gh-username>/<repo>
     repo_id:
     category:
     category_id:
