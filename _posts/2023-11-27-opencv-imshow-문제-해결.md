@@ -2,6 +2,8 @@
 layout: post
 title: OpenCV imshow 문제 해결
 date: 2023-11-27 09:12 +0900
+category: [Python, OpenCV]
+tags: [Python, OpenCV, Computer Vision]
 ---
 
 ## 문제
