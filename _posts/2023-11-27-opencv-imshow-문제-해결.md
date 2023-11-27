@@ -25,3 +25,7 @@ date: 2023-11-27 09:12 +0900
 위와 같이 코드를 수정하면 정상적으로 작동한다.
 
 나의 경우에는 VideoCapture Release와 destoryAllWindows를 별도의 Exit 로직에서 구현하느라, imshow를 사용하는 부분에서는 `cv2.waitKey()` 함수를 사용하지 않았는데, 이 부분을 수정하니 정상적으로 작동하였다.
+
+## 사용된 코드
+
+<https://github.com/suk-6/walking-assistance>
