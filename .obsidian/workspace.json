@@ -1,0 +1,171 @@
+{
+  "main": {
+    "id": "3e638e753bed384c",
+    "type": "split",
+    "children": [
+      {
+        "id": "228edcc9ad450904",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "20bcefc87348a2f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2023-12-26-2023-회고록.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bcafede52e84dd9a",
+    "type": "split",
+    "children": [
+      {
+        "id": "a915b773b8671fc9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "867bc410d5dec5ab",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0161081e2c965e38",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "772b467f110dec4f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 239.5
+  },
+  "right": {
+    "id": "e9c6adadfc699bce",
+    "type": "split",
+    "children": [
+      {
+        "id": "5112b87787b756b2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2b7adee178ba746b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_posts/2023-12-26-2023-회고록.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0c3959fbf23128c1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "_posts/2023-12-26-2023-회고록.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7d623b1fdddce894",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1fc63a931cdbd3f9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "_posts/2023-12-26-2023-회고록.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "20bcefc87348a2f5",
+  "lastOpenFiles": [
+    "_site/assets/img/posts/Pasted image 20231229233320.png",
+    "assets/img/posts/Pasted image 20231229233320.png",
+    "_posts/2023-12-26-2023-회고록.md",
+    "_site/tags/회고록/index.html",
+    "_site/tags/회고록",
+    "_site/categories/회고록/index.html",
+    "_site/categories/회고록",
+    "_posts/2023-11-27-opencv-imshow-문제-해결.md",
+    "_site/assets/img/posts/148_0.jpg",
+    "assets/img/posts/148_0.jpg",
+    "assets/img/posts/148_0 1.jpg",
+    "_site/assets/img/posts/148_0 1.jpg",
+    "2023-11-27-opencv-imshow-문제-해결.md",
+    "assets/img/posts/231127-2.png.md",
+    "assets/img/posts",
+    "assets/img",
+    "assets",
+    "2023-12-26-2023-회고록.md",
+    "assets/img/posts/231226-1.png.md"
+  ]
+}

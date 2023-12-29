@@ -8,11 +8,11 @@ tags: [Python, OpenCV, Computer Vision]
 
 ## 문제
 
-![OpenCV imshow가 시작됨](/assets/img/posts/231127-1.png)
+![OpenCV imshow가 시작됨](assets/img/posts/231127-1.png)
 
 위 처럼 OpenCV imshow가 시작되었지만, 아무 반응이 없는 모습이다.
 
-![OpenCV 오류](/assets/img/posts/231127-2.png)
+![OpenCV 오류](assets/img/posts/231127-2.png)
 
 이 후 조금 기다리면 위와 같은 오류가 나타나게 된다.
 
@@ -22,7 +22,7 @@ tags: [Python, OpenCV, Computer Vision]
 
 `cv2.destoryAllWindows()` 함수는 선택이지만, `cv2.waitKey()` 함수가 없다면 imshow가 제대로 작동하지 않는다.
 
-![수정된 코드](/assets/img/posts/231127-3.png)
+![수정된 코드](assets/img/posts/231127-3.png)
 
 위와 같이 코드를 수정하면 정상적으로 작동한다.
 
