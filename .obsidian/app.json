@@ -1,9 +1,0 @@
-{
-  "spellcheck": false,
-  "promptDelete": false,
-  "newFileLocation": "folder",
-  "newFileFolderPath": "_posts",
-  "attachmentFolderPath": "assets/img/posts",
-  "newLinkFormat": "absolute",
-  "useMarkdownLinks": true
-}
